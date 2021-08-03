@@ -20,7 +20,7 @@
     width: 120px;
     height: 200px;
     position: absolute;
-    top:0px;
+    top:-15px;
     right: 0px;
     // transition: all ease-in-out 0.3s;   
     svg{
@@ -574,9 +574,9 @@
 
 @media (max-width: 570px){
     .flag {
-        width: 120px;
+        width: 129px;
         height: 95px;      
-        top: 76px;
+        top:80px;
         // overflow: hidden;
         right: 0px;
         background: #F06E00;
