@@ -622,7 +622,7 @@
     }
     .flag {
         top: 119px;
-        width: 105px;
+        width: 115px;
         height: 95px;
     }
     .flag:after {
@@ -644,9 +644,11 @@
         border-top: 40px solid #F06E00;
     }
     .flag .flag_text, .flag .flag_text_2 {
-        padding-top: 2px;
+        padding-top: 5px;
     }
-
+    .flag .flag_text_2{
+        padding: 2px 2px;
+    }
 
 }
 
